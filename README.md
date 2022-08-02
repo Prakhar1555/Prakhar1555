@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakhar1555
 - 👀 I’m interested in webdevelopment.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on frontend development.
 - 📫 How to reach me - my email is- tripathiprakhar.20112000@gmail.com
 
